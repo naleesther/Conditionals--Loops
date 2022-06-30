@@ -1,18 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
         // Write a JavaScript program which iterates the integers from 1 to 100. But for
         // multiples of three print "Fizz" instead of the number and for the multiples of five print
         // "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
-         for (j=1; j<=100;j++){
+        for (j=1; j<=100;j++){
             if(j%3==0  && j%5==0){
             console.log("FizzBuzz")
             }
@@ -100,9 +90,3 @@ function leap_year_checker(){
         }
       }
       leap_year_checker()
-     
-         
-    </script>
-</body>
-</html>
-
