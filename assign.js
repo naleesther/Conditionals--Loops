@@ -75,7 +75,7 @@ function large(){
         var y = 40
 
         if(x<y){
-          console.log("10 is greater")
+          console.log("10 is greatest")
         }
         else{
           console.log("40 is greater")
